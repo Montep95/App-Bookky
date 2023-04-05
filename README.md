@@ -1,11 +1,7 @@
-# ReviewApp-Python_Ajax
+# App-Bookky
 
-# -----Bookggrum-----
-## _내가 읽은 책, 네가 읽을 책, 북끄럼_
-
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# -----[Working Title : Bookky]-----
+## _[Private Name]_
 
 Montep95(Gnob) is a android, java, mobile-application Developer.
 
